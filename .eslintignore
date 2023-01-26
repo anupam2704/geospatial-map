@@ -1,0 +1,9 @@
+# Ignore below files
+**/App.test.tsx
+**/react-app-env.d.ts
+**/serviceWorker.ts
+src/reportWebVitals.ts
+dist
+.eslintrc.js
+config
+scripts
